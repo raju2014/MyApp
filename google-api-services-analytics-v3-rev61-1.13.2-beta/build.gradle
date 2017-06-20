@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('google-api-services-analytics-v3-rev61-1.13.2-beta.jar'))

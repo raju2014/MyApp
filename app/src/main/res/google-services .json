@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "286389121367",
+    "project_id": "myapp-a4e02"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286389121367:android:f61e77a8ee3efad2",
+        "android_client_info": {
+          "package_name": "com.example.appstek.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJW27rwNTab-yQ9XQluaNNJSrpH6ybcpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-98462667-6"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
